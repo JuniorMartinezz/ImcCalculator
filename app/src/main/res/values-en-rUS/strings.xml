@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="nome">Name:</string>
+    <string name="peso">Weight:</string>
+    <string name="altura">Height:</string>
+    <string name="imc">BMI:</string>
+    <string name="hintNome">ex: Elton John...</string>
+    <string name="hintPeso">ex: 65kg...</string>
+    <string name="hintAltura">ex: 1,65...</string>
+    <string name="sexo">Gender:</string>
+    <string name="campoNome">Field to insert name</string>
+    <string name="campoPeso">Field to insert weight</string>
+    <string name="campoAltura">Field to insert height</string>
+    <string name="masc">Male</string>
+    <string name="fem">Female</string>
+    <string name="outro">Other</string>
+    <string name="calcular">Calculate body mass index</string>
+    <string name="btnCalcular">Calculate BMI</string>
+    <string name="f1">You are very underweight! \n\n BMI: 16 to 16.9 kg/m2 \n\n Possible symptoms: Hair loss, infertility, menstrual absence</string>
+    <string name="f2">You are underweight! \n\n BMI: 17 to 18.4 kg/m2 \n\n Possible symptoms: Fatigue, stress, anxiety</string>
+    <string name="f3">You are at the perfect weight! \n\n BMI: 18.5 to 24.9 kg/m2 \n\n Positives: Lower risk of heart and vascular disease</string>
+    <string name="f4">" Are you overweight! \n\n BMI: 25 to 29.9 kg/m2 \n\n Possible symptoms: Fatigue, poor circulation, varicose veins"</string>
+    <string name="f5">Grade I obesity status! \n\n BMI: 30 to 34.9 kg/m2 \n\n Possible symptoms: Diabetes, angina, heart attack, atherosclerosis</string>
+    <string name="f6">Grade II obesity status! \n\n BMI: 35 to 40 kg/m2 \n\n Possible symptoms: Sleep apnea, shortness of breath</string>
+    <string name="f7">Grade III obesity status! \n\n BMI: greater than 40 kg/m2 \n\n Possible symptoms: Reflux, difficulty moving, bedsores, diabetes, heart attack, stroke</string>
+    <string name="f1m">You are very underweight! \n\n BMI: 0,09 to 19,19 kg/m2 \n\\n Possible symptoms: Hair loss, infertility, menstrual absence</string>
+    <string name="f2m">You are underweight! \n\n BMI: 19,19 to 25,89 kg/m2 \n\n Possible symptoms: Fatigue, stress, anxiety</string>
+    <string name="f3m">You are at the perfect weight! \n\n BMI: 25,89 to 27,39 kg/m2 \n\n Positives: Lower risk of heart and vascular disease</string>
+    <string name="f4m">" Are you overweight! \n\n BMI: 27,89 to 32,39 kg/m2 \n\n Possible symptoms: Fatigue, poor circulation, varicose veins"</string>
+    <string name="f5m">Grade I obesity status! \n\n BMI: 32,39 to 34,99 kg/m2 \n\n Possible symptoms: Diabetes, angina, heart attack, atherosclerosis</string>
+    <string name="f6m">Grade II obesity status! \n\n BMI: 35,09 to 39,99 kg/m2 \n\n Possible symptoms: Sleep apnea, shortness of breath</string>
+    <string name="f7m">Grade III obesity status! \n\n BMI: greater than 40 kg/m2 \n\n Possible symptoms: Reflux, difficulty moving, bedsores, diabetes, heart attack, stroke</string>
+    <string name="avisoCampos">Fill all fields to continue!</string>
+    <string name="avisoResultado">Result obtained!</string>
+    <string name="titleResult">BMI result</string>
+    <string name="btnVoltar">Back</string>
+</resources>

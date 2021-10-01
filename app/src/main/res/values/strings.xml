@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="nome">Nome:</string>
+    <string name="peso">Peso:</string>
+    <string name="altura">Altura:</string>
+    <string name="imc">IMC:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="btnCalcular">Calcular IMC</string>
+    <string name="avisoCampos">Preencha todos os campos para prosseguir!</string>
+    <string name="avisoResultado">Resultado obtido!</string>
+    <string name="titleResult">Resultado IMC</string>
+    <string name="btnVoltar">Voltar</string>
+
+    //hints
+    <string name="hintNome">ex: João da Silva...</string>
+    <string name="hintPeso">ex: 65kg...</string>
+    <string name="hintAltura">ex: 1,65...</string>
+
+    //contentDescription
+    <string name="campoNome">Campo para inserir o nome</string>
+    <string name="campoPeso">Campo para inserir o peso</string>
+    <string name="campoAltura">Campo para inserir a altura</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Feminino</string>
+    <string name="outro">Outro</string>
+    <string name="calcular">Calcular o índice de massa corporal</string>
+    <string name="descVoltar">Botão para voltar à pagina inicial!</string>
+
+    <string name="f1">"Você está muito abaixo do peso! \n\n  IMC: 16 a 16,9 kg/m2 \n\n Possíveis sintomas: Queda de cabelo, infertilidade, ausência menstrual "</string>
+    <string name="f2">Você está abaixo do peso! \n\n IMC: 17 a 18,4 kg/m2 \n\n Possíveis sintomas: Fadiga, stress, ansiedade</string>
+    <string name="f3">Você está no peso ideal! \n\n IMC: 18,5 a 24,9 kg/m2 \n\n Pontos positivos: Menor risco de doenças cardíacas e vasculares</string>
+    <string name="f4">Você está acima do peso! \n\n IMC: 25 a 29,9 kg/m2 \n\n Possíveis sintomas: Fadiga, má circulação, varizes</string>
+    <string name="f5">Estado de obesidade grau I! \n\n IMC: 30 a 34,9 kg/m2 \n\n Possíveis sintomas: Diabetes, angina, infarto, aterosclerose</string>
+    <string name="f6">Estado de obesidade grau II! \n\n IMC: 35 a 40 kg/m2  \n\n Possíveis sintomas: Apneia do sono, falta de ar</string>
+    <string name="f7">Estado de obesidade grau III! \n\n IMC: maior que 40 kg/m2 \n\n Possíveis sintomas: Refluxo, dificuldade para se mover, escaras, diabetes, infarto, AVC</string>
+
+    <string name="f1m">"Você está muito abaixo do peso! \n\n  IMC: 0,09 a 19,19 kg/m2 \n\n Possíveis sintomas: Queda de cabelo, infertilidade, ausência menstrual "</string>
+    <string name="f2m">Você está abaixo do peso! \n\n IMC: 19,19 a 25,89 kg/m2 \n\n Possíveis sintomas: Fadiga, stress, ansiedade</string>
+    <string name="f3m">Você está no peso ideal! \n\n IMC: 25,89 a 27,39 kg/m2 \n\n Pontos positivos: Menor risco de doenças cardíacas e vasculares</string>
+    <string name="f4m">Você está acima do peso! \n\n IMC: 27,89 a 32,39 kg/m2 \n\n Possíveis sintomas: Fadiga, má circulação, varizes</string>
+    <string name="f5m">Estado de obesidade grau I! \n\n IMC: 32,39 a 34,99 kg/m2 \n\n Possíveis sintomas: Diabetes, angina, infarto, aterosclerose</string>
+    <string name="f6m">Estado de obesidade grau II! \n\n IMC: 35,09 a 39,99 kg/m2  \n\n Possíveis sintomas: Apneia do sono, falta de ar</string>
+    <string name="f7m">Estado de obesidade grau III! \n\n IMC: maior que 40 kg/m2 \n\n Possíveis sintomas: Refluxo, dificuldade para se mover, escaras, diabetes, infarto, AVC</string>
+</resources>
